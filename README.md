@@ -2,7 +2,8 @@
 Modelling Customer Satisfaction from online reviews
 using Interpretative Machine Learning and Kano model
 
-![image](https://user-images.githubusercontent.com/85447424/121343247-7068f400-c95d-11eb-9106-389a2878f969.png)
+
+![763](https://user-images.githubusercontent.com/85447424/160403692-3b720d99-ec1f-4c3f-9744-d6067de8acc8.png)
 
 1. REPORT.pdf - demonstrates a research process and the result in detail
 2. DATA_CRAWLING.ipynb - used in collecting online reviews
